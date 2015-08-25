@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blocks", "blocks\blocks.vcproj", "{F55EA98E-A46C-4FA2-A6B6-48174EC2D69B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blocraft", "blocraft\blocraft.vcproj", "{8DFD94CB-C7FA-4A60-92D7-A4C3DF503EBE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "collisions", "collisions\collisions.vcproj", "{2CBFAB6B-340A-441E-96BB-89805414B0F7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pathfinding", "pathfinding\pathfinding.vcproj", "{4FE70C5E-0CC0-4E4E-A8F5-18A02F6C68F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "labirynth", "labirynth\labirynth.vcproj", "{FCF3B77E-7B4D-45E2-B8F1-B17A36EA0B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55EA98E-A46C-4FA2-A6B6-48174EC2D69B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F55EA98E-A46C-4FA2-A6B6-48174EC2D69B}.Debug|Win32.Build.0 = Debug|Win32
+		{F55EA98E-A46C-4FA2-A6B6-48174EC2D69B}.Release|Win32.ActiveCfg = Release|Win32
+		{F55EA98E-A46C-4FA2-A6B6-48174EC2D69B}.Release|Win32.Build.0 = Release|Win32
+		{8DFD94CB-C7FA-4A60-92D7-A4C3DF503EBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DFD94CB-C7FA-4A60-92D7-A4C3DF503EBE}.Debug|Win32.Build.0 = Debug|Win32
+		{8DFD94CB-C7FA-4A60-92D7-A4C3DF503EBE}.Release|Win32.ActiveCfg = Release|Win32
+		{8DFD94CB-C7FA-4A60-92D7-A4C3DF503EBE}.Release|Win32.Build.0 = Release|Win32
+		{2CBFAB6B-340A-441E-96BB-89805414B0F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CBFAB6B-340A-441E-96BB-89805414B0F7}.Debug|Win32.Build.0 = Debug|Win32
+		{2CBFAB6B-340A-441E-96BB-89805414B0F7}.Release|Win32.ActiveCfg = Release|Win32
+		{2CBFAB6B-340A-441E-96BB-89805414B0F7}.Release|Win32.Build.0 = Release|Win32
+		{4FE70C5E-0CC0-4E4E-A8F5-18A02F6C68F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4FE70C5E-0CC0-4E4E-A8F5-18A02F6C68F6}.Debug|Win32.Build.0 = Debug|Win32
+		{4FE70C5E-0CC0-4E4E-A8F5-18A02F6C68F6}.Release|Win32.ActiveCfg = Release|Win32
+		{4FE70C5E-0CC0-4E4E-A8F5-18A02F6C68F6}.Release|Win32.Build.0 = Release|Win32
+		{FCF3B77E-7B4D-45E2-B8F1-B17A36EA0B97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCF3B77E-7B4D-45E2-B8F1-B17A36EA0B97}.Debug|Win32.Build.0 = Debug|Win32
+		{FCF3B77E-7B4D-45E2-B8F1-B17A36EA0B97}.Release|Win32.ActiveCfg = Release|Win32
+		{FCF3B77E-7B4D-45E2-B8F1-B17A36EA0B97}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
